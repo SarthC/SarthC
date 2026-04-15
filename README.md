@@ -63,6 +63,7 @@
 ## 🚀 Projects & Repositories
 
 ### 🛠️ Featured Builds
+* **[NeverOut](https://github.com/SarthC/NeverOut):** An AI-powered, multi-tenant inventory management SaaS platform for small-scale retail. Built with React, Flask, and MongoDB, it uses Scikit-Learn for predictive analytics and the Twilio API to trigger automated zero-click WhatsApp replenishment alerts.
 * **[Pofix (Pothole-Dealers)](https://github.com/SarthC/Pothole-Dealers):** A crowdsourced road safety application integrated with OpenStreetMap API. Built with React, Firebase, Python, and MobileNet V2 for high-accuracy pothole verification.
 * **[DocuSense AI Agent](https://github.com/SarthC):** Autonomous AI agent for financial and legal document extraction built on the Supervity Platform using LLMs and advanced Prompt Engineering.
 * **[GoalStreak AI](https://github.com/SarthC/goalstreak-ai):** An AI-powered goal tracking and productivity tool designed to help users build and maintain consistent habits.
