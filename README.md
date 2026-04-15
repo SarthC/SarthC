@@ -60,17 +60,17 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects & Repositories
 
-### [Pofix](https://github.com/SarthC)
-*A crowdsourced road safety application integrated with OpenStreetMap API.*
-* **Tech Stack:** React, Firebase, Python, MobileNet V2.
-* **Impact:** Provides high-accuracy pothole verification and automated hazard classification with instant local authority alerts via SendGrid and EmailJS.
+### 🛠️ Featured Builds
+* **[Pofix (Pothole-Dealers)](https://github.com/SarthC/Pothole-Dealers):** A crowdsourced road safety application integrated with OpenStreetMap API. Built with React, Firebase, Python, and MobileNet V2 for high-accuracy pothole verification.
+* **[DocuSense AI Agent](https://github.com/SarthC):** Autonomous AI agent for financial and legal document extraction built on the Supervity Platform using LLMs and advanced Prompt Engineering.
+* **[GoalStreak AI](https://github.com/SarthC/goalstreak-ai):** An AI-powered goal tracking and productivity tool designed to help users build and maintain consistent habits.
 
-### [DocuSense AI Agent](https://github.com/SarthC)
-*Autonomous AI agent for financial and legal document extraction.*
-* **Tech Stack:** Supervity Platform, LLMs, NLP, Prompt Engineering.
-* **Impact:** Achieved 95%+ data retrieval accuracy and reduced manual processing time by 70%.
+### 📂 Other Repositories
+* **[E-Plant Shopping](https://github.com/SarthC/e-plantShopping):** A dynamic e-commerce platform interface built for browsing, managing, and purchasing indoor and outdoor plants.
+* **[Feedback Form](https://github.com/SarthC/Feedback_Form):** A streamlined, responsive web application for collecting and structuring user feedback effectively.
+* **[Simple Interest Calculator](https://github.com/SarthC/simpleinterestcalculator):** A fast and intuitive utility application to compute simple interest on investments or loans.
 
 ---
 
