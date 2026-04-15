@@ -1,22 +1,22 @@
-# [cite_start]💫 Hi there, I'm Sarthak Choudhari! [cite: 1]
+# 💫 Hi there, I'm Sarthak Choudhari!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full+Stack+%26+AI+Developer;Cross-Country+Gold+Medalist;Tech+Enthusiast+%26+Builder" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  [cite_start]<a href="https://linkedin.com/in/sarthak-choudhari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> [cite: 3]
-  [cite_start]<a href="mailto:Sarthakc8493@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> [cite: 3]
+  <a href="https://linkedin.com/in/sarthak-choudhari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:Sarthakc8493@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* [cite_start]🎓 Second-year **B.Tech in Computer Science** [cite: 6] [cite_start]student at **MIT Art Design and Technology University, Pune** [cite: 5] (CGPA: 8.43) [cite_start][cite: 6].
-* [cite_start]💻 **Technical Team Member** [cite: 10] [cite_start]for the GeeksforGeeks Student Chapter [cite: 11][cite_start], managing digital infrastructure for 500+ students[cite: 16].
-* [cite_start]🚀 **Hackathon Competitor**: National Finalist at Codequesters 2026[cite: 39], former leader of Team Farmio (Smart India Hackathon), and AIBoomi Startup Weekend participant.
-* [cite_start]🔭 **Beyond the Screen**: When I'm not coding, I'm competing as a Gold Medalist in Inter-Collegiate Cross Country[cite: 39], playing guitar, trekking, following Formula 1, or capturing the moon through my telescope.
+* 🎓 Second-year **B.Tech in Computer Science** student at **MIT Art Design and Technology University, Pune** (CGPA: 8.43).
+* 💻 **Technical Team Member** for the GeeksforGeeks Student Chapter, managing digital infrastructure for 500+ students.
+* 🚀 **Hackathon Competitor**: National Finalist at Codequesters 2026, former leader of Team Farmio (Smart India Hackathon), and AIBoomi Startup Weekend participant.
+* 🔭 **Beyond the Screen**: When I'm not coding, I'm competing as a Gold Medalist in Inter-Collegiate Cross Country, playing guitar, trekking, following Formula 1, or capturing the moon through my telescope.
 * 🌱 **Currently learning:** Machine Learning, Agentic AI, and LLMs.
 
 ---
@@ -48,29 +48,29 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  [cite_start]<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarthC&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sarthak's GitHub Stats" /> [cite: 3]
-  [cite_start]<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthC&layout=compact&theme=tokyonight&hide_border=true" alt="Sarthak's Top Languages" /> [cite: 3]
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarthC&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sarthak's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthC&layout=compact&theme=tokyonight&hide_border=true" alt="Sarthak's Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  [cite_start]<img src="https://streak-stats.demolab.com?user=SarthC&theme=tokyonight&hide_border=true" alt="Sarthak's GitHub Streak" /> [cite: 3]
+  <img src="https://streak-stats.demolab.com?user=SarthC&theme=tokyonight&hide_border=true" alt="Sarthak's GitHub Streak" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### [cite_start][Pofix](https://github.com/SarthC) [cite: 25, 3]
-[cite_start]*A crowdsourced road safety application integrated with OpenStreetMap API[cite: 27].*
-* [cite_start]**Tech Stack:** React, Firebase, Python, MobileNet V2[cite: 25, 28].
-* [cite_start]**Impact:** Provides high-accuracy pothole verification [cite: 28] [cite_start]and automated hazard classification with instant local authority alerts via SendGrid and EmailJS[cite: 29].
+### [Pofix](https://github.com/SarthC)
+*A crowdsourced road safety application integrated with OpenStreetMap API.*
+* **Tech Stack:** React, Firebase, Python, MobileNet V2.
+* **Impact:** Provides high-accuracy pothole verification and automated hazard classification with instant local authority alerts via SendGrid and EmailJS.
 
-### [cite_start][DocuSense AI Agent](https://github.com/SarthC) [cite: 30, 3]
-[cite_start]*Autonomous AI agent for financial and legal document extraction[cite: 32].*
-* [cite_start]**Tech Stack:** Supervity Platform, LLMs, NLP, Prompt Engineering[cite: 30].
-* [cite_start]**Impact:** Achieved 95%+ data retrieval accuracy and reduced manual processing time by 70%[cite: 33].
+### [DocuSense AI Agent](https://github.com/SarthC)
+*Autonomous AI agent for financial and legal document extraction.*
+* **Tech Stack:** Supervity Platform, LLMs, NLP, Prompt Engineering.
+* **Impact:** Achieved 95%+ data retrieval accuracy and reduced manual processing time by 70%.
 
 ---
 
@@ -78,26 +78,12 @@
 
 Whether you want to collaborate on a project, talk about tech, or just say hi, feel free to reach out!
 
-* [cite_start]**LinkedIn:** [Sarthak Choudhari](https://linkedin.com/in/sarthak-choudhari/) [cite: 3]
-* [cite_start]**Email:** [Sarthakc8493@gmail.com](mailto:Sarthakc8493@gmail.com) [cite: 3]
-* [cite_start]**GitHub:** [@SarthC](https://github.com/SarthC) [cite: 3]
-* [cite_start]**Phone:** +91 8308293636 [cite: 2]
+* **LinkedIn:** [Sarthak Choudhari](https://linkedin.com/in/sarthak-choudhari/)
+* **Email:** [Sarthakc8493@gmail.com](mailto:Sarthakc8493@gmail.com)
+* **GitHub:** [@SarthC](https://github.com/SarthC)
+* **Phone:** +91 8308293636
 
 ---
 <div align="center">
   <i>"Combining a long-distance runner's endurance with an engineer's precision to build scalable, high-impact solutions."</i>
 </div>
-<!--
-**SarthC/SarthC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
