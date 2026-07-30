@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Second-year **B.Tech in Computer Science** student at **MIT Art Design and Technology University, Pune** (CGPA: 8.43).
+* 🎓 Second-year **B.Tech in Computer Science** student at **MIT Art Design and Technology University, Pune** (CGPA: 8.6).
 * 💻 **Technical Team Member** for the GeeksforGeeks Student Chapter, managing digital infrastructure for 500+ students.
 * 🚀 **Hackathon Competitor**: National Finalist at Codequesters 2026, former leader of Team Farmio (Smart India Hackathon), and AIBoomi Startup Weekend participant.
 * 🔭 **Beyond the Screen**: When I'm not coding, I'm competing as a Gold Medalist in Inter-Collegiate Cross Country, playing guitar, trekking, following Formula 1, or capturing the moon through my telescope.
